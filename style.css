@@ -3,7 +3,7 @@ body {
 }
 .nav {
 	list-style-type: none;
-	 
+	text-align: center;
 }
 .links {
 	display: inline-block;
